@@ -8,8 +8,7 @@ import MyPost from "../Pages/MyPost/MyPost";
 import AddVolunteer from "../Pages/AddVolunteer/AddVolunteer";
 import MyProfile from "../Pages/MyProfile/MyProfile";
 import PrivetRouter from "./PrivetRouter";
-import VolunteerDetailsPage from "../Pages/VolunteerDetailsPage/VolunteerDetailsPage";
-
+import VolunteerDetailsPage from "../Pages/VolunteerDetailsPage/VolunteerDetailsPage"
 import BeVolunteerPage from "../Pages/BeVolunteerPage/BeVolunteerPage";
 import UpdatePage from "../Pages/UpdatePage/UpdatePage";
 import ErrorPage from "../Pages/ErrorPage/ErrorPage";
