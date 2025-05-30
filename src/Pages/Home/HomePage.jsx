@@ -4,8 +4,6 @@ import VolunteerNeeds from "../../Componentes/VolunteerNeeds/VolunteerNeeds";
 import ReliableCare from "../MyProfile/ReliableCare/ReliableCare";
 import ListOf from "../../Componentes/ListOf/ListOf";
 import JoinMovement from "../../Componentes/JoinMovement";
-
-
 const HomePage = () => {
     return (
         <div>
