@@ -1,5 +1,4 @@
 
-
 const Loading = () => {
     return (
         <div className='flex justify-center '>
@@ -7,5 +6,4 @@ const Loading = () => {
         </div>
     );
 };
-
 export default Loading;
