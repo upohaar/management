@@ -1,7 +1,6 @@
 import Lottie from "lottie-react";
  import groovyWalkAnimation  from "../../assets/Images/Animation - 1735028284118.json"
  import {  Link } from "react-router-dom";
-
 const ErrorPage = () => {
     return (
         <div>
