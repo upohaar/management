@@ -2,7 +2,6 @@
 import Lottie from 'lottie-react';
 import { useContext } from 'react';
 import groovyWalkAnimation from"../assets/Images/groovyWalkAnimation.json"
-
 import { AuthContext } from '../AuthProvider/AuthProvider';
 const JoinMovement = () => {
      const { theme } = useContext(AuthContext);
