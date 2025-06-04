@@ -7,5 +7,4 @@ const HomePages = () => {
         </div>
     );
 };
-
 export default HomePages;
