@@ -4,8 +4,6 @@ import { AuthContext } from "../../AuthProvider/AuthProvider";
 import { useContext } from "react";
 import Swal from "sweetalert2";
 import { Helmet } from "react-helmet-async";
-
-
 const Login = () => {
   const navigate= useNavigate()
   const{userLogin, setUser, googleLogin}=useContext(AuthContext)
